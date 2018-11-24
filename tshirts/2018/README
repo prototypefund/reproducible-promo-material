@@ -1,5 +1,6 @@
-The t-shirt design is Copyright (c) 2018 Holger Levsen <holger@layer-acht.org> released under the WTF licence,
-based on the Reproducible Builds logo (see https://salsa.debian.org/reproducible-builds/reproducible-styleguide/)
+The t-shirt design is Copyright (c) 2018 Holger Levsen <holger@layer-acht.org>
+and has been released under the WTF licence. It includes the Reproducible Builds
+logo (see https://salsa.debian.org/reproducible-builds/reproducible-styleguide/)
 which is Copyright (c) 2018 Ura Design and available under MIT licence.
 
 
@@ -8,4 +9,5 @@ To be printed on black fabric in 35cm x 35cm.
 The dark blue (rgb#1e5b96) is Pantone 647 C.
 The lighter blue (rgb#2b89d6) is Pantone 2727 C.
 
-The font used is Overpass-Regular.ttf and copied from https://salsa.debian.org/reproducible-builds/reproducible-styleguide/tree/master/assets/fonts/
+The font used is Overpass-Regular.ttf and copied from
+https://salsa.debian.org/reproducible-builds/reproducible-styleguide/tree/master/assets/fonts/
