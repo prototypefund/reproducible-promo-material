@@ -9,5 +9,8 @@ To be printed on black fabric in 35cm x 35cm.
 The dark blue (rgb#1e5b96) is Pantone 647 C.
 The lighter blue (rgb#2b89d6) is Pantone 2727 C.
 
-The font used is Overpass-Regular.ttf and copied from
+The font used is Overpass-Regular.ttf and has been copied from
 https://salsa.debian.org/reproducible-builds/reproducible-styleguide/tree/master/assets/fonts/
+while it is also available from https://overpassfont.org.
+The Overpass font is Copyright (c) 2016 Red Hat, Inc. and has been dual licensed
+under the SIL Open Font License and the GNU Lesser General Public License, LGPL 2.1.
