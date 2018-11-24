@@ -4,7 +4,8 @@ released under the WTF licence.
 
 To be printed on black fabric in 35cm x 35cm.
 
-The dark blue (rgb#1e5b96) is probably Pantone 2143C (or RAL 5023).
-The lighter blue (rgb#2b89d6) is probably Pantone 10248C (or RAL 5012).
+The dark blue (rgb#1e5b96) is Pantone 647 C.
 
-The font used is Overpass-Regular.ttf and copied here from git@salsa.debian.org:reproducible-builds/reproducible-styleguide.git/assets/fonts/Overpass-Regular.ttf
+The lighter blue (rgb#2b89d6) is Pantone 2727 C.
+
+The font used is Overpass-Regular.ttf and copied here from git@salsa.debian.org:reproducible-builds/reproducible-styleguide.git/assets/fonts/
