@@ -1,0 +1,88 @@
+﻿1
+00:00:05,600 --> 00:00:07,200
+Soy Holger Levsen
+
+2
+00:00:07,200 --> 00:00:09,700
+y por los últimos 5 años he estado trabajando en Reproducible Builds
+
+3
+00:00:09,800 --> 00:00:15,100
+donde apuntamos a crear una cadena de entrega más segura para producción de software.
+
+4
+00:00:17,400 --> 00:00:20,100
+Nuestra meta es, que uno pueda estar seguro
+
+5
+00:00:20,100 --> 00:00:22,400
+que las herramientas construídas
+
+6
+00:00:22,300 --> 00:00:26,300
+no contienen backdoors.  Que todas ellas se comorten de manera similar.
+
+7
+00:00:29,800 --> 00:00:31,500
+En el pasado
+
+8
+00:00:31,500 --> 00:00:33,900
+'reproducible' or 'programas reproducibles' significaba
+
+9
+00:00:34,000 --> 00:00:35,400
+'He construído un programa dos veces
+
+10
+00:00:35,500 --> 00:00:38,800
+y en ambas ocasiones obtuve algo que hace las mismas cosas.'
+
+11
+00:00:38,800 --> 00:00:40,900
+Para nosotros, esto significa 'bit por bit idéntico'
+
+12
+00:00:40,900 --> 00:00:43,000
+como en construyo un programa dos veces
+
+13
+00:00:43,000 --> 00:00:45,100
+y como resultado tengo una pila de bits idéntica dos veces,
+
+14
+00:00:45,200 --> 00:00:46,900
+que son 100% lo mismo.
+
+15
+00:00:51,100 --> 00:00:54,800
+Obtuve dos pizzas aquí, hechas por máquinas,
+
+16
+00:00:54,800 --> 00:00:56,000
+pero ellos son diferentes porque
+
+17
+00:00:56,000 --> 00:01:01,000
+los ingredientes, la comida, es simplemente orgánica, así que diferentes.
+
+18
+00:01:01,300 --> 00:01:03,100
+Mientras que estas dos bolsas de Lego
+
+19
+00:01:04,700 --> 00:01:08,200
+te permiten construir resultados 100% idénticos, dos veces.
+
+20
+00:01:18,000 --> 00:01:20,200
+Este Lego no es completamente idéntico...
+
+21
+00:01:20,400 --> 00:01:21,500
+la prueba ha sido hecha
+
+22
+00:01:21,500 --> 00:01:23,200
+No soy una máquina.
+
